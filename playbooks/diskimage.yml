@@ -92,5 +92,6 @@
     - ansible-common
     - ansible-operator
     - ansible-docker
+    - ansible-docker-compose
     - timezone
     - utilities

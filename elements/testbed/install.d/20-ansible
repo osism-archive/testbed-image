@@ -13,6 +13,7 @@ ansible-galaxy install git+https://github.com/ANXS/timezone
 ansible-galaxy install git+https://github.com/ANXS/utilities
 ansible-galaxy install git+https://github.com/osism/ansible-common
 ansible-galaxy install git+https://github.com/osism/ansible-docker
+ansible-galaxy install git+https://github.com/osism/ansible-docker-compose
 ansible-galaxy install git+https://github.com/osism/ansible-operator
 ansible-galaxy install git+https://github.com/osism/ansible-repository
 
